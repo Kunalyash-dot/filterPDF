@@ -1,0 +1,19 @@
+{
+  "name": "routing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "pdf-merger-js": "^5.1.2",
+    "xlsx": "^0.18.5"
+  }
+}
